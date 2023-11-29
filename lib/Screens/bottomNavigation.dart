@@ -24,9 +24,9 @@ class Home1 extends StatefulWidget {
 class _Home1State extends State<Home1> {
 
   final items = const [
-    Icon(Icons.swipe, size: 30,),
-    Icon(Icons.favorite, size: 30,),
-    Icon(Icons.message, size: 30,),
+    Icon(Icons.home, size: 30,),
+    Icon(Icons.add_chart, size: 30,),
+    Icon(Icons.cloud, size: 30,),
     Icon(Icons.person, size: 30,)
   ];
 
@@ -51,7 +51,7 @@ class _Home1State extends State<Home1> {
         ],
       ),
       bottomNavigationBar: CurvedNavigationBar(
-        buttonBackgroundColor: Colors.pink.shade300,
+        buttonBackgroundColor: Colors.green.shade300,
         items: items,
         index: index,
         onTap: (selctedIndex){

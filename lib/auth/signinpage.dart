@@ -228,6 +228,8 @@
 // import '../screens/samples_list_view.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:kisanfasal/Screens/bottomNavigation.dart';
+import 'package:kisanfasal/Screens/profilepage.dart';
 import 'package:kisanfasal/auth/signup.dart';
 
 class LoginScreen extends StatefulWidget {
@@ -421,7 +423,7 @@ class _LoginScreenState extends State<LoginScreen> {
                           onPressed: () {
 
                             // signIn(emailController.text, passwordController.text);
-                            // Navigator.push(context, MaterialPageRoute(builder: (context) => RiveAppHome()));
+                            Navigator.push(context, MaterialPageRoute(builder: (context) => Home1()));
                             // FirebaseAuth.instance.signInWithEmailAndPassword(email: emailController.text, password: passwordController.text.trim());
                           },
                           child: const Padding(
