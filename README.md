@@ -1,9 +1,8 @@
-﻿**CODERUN-48Hours Hackathon**
+﻿# CODERUN-48Hours Hackathon
 
-*Full Flask Idea about Farmer-Buyer Problem*
+## AgroWorld
 
-**Problem Statement:**
-
+### Problem Statement:
 In today's agricultural landscape, farmers face challenges in efficiently connecting with the most suitable buyers for their produce. The lack of a streamlined platform results in inefficiencies, delayed transactions, and missed opportunities for both farmers and buyers. The existing channels often involve intermediaries, leading to increased costs and reduced profits for farmers, while buyers may struggle to access a diverse range of produce. There is a pressing need for an innovative solution that directly connects farmers to the right buyers, facilitating seamless transactions, fair pricing, and a more sustainable agricultural ecosystem.
 
 
@@ -12,11 +11,11 @@ In today's agricultural landscape, farmers face challenges in efficiently connec
 
 
 
-**Conventional farming supply chain:**
+### Conventional farming supply chain:
 
 ![Supply Chain of Traditional Model](Aspose.Words.43354786-ab7d-46fe-b183-8fa647330879.001.png)
 
-**The conventional supply chain in farming has several disadvantages:**
+### The conventional supply chain in farming has several disadvantages:**
 
 1. **Longer** **Supply** **Chains**: Conventional farming often involves a long and complex supply chain with multiple intermediaries between the farmer and the end consumer. This elongated chain can result in increased costs, longer delivery times, and decreased freshness of produce.
 1. **Lack of** **Transparency**: With numerous middlemen involved, there's often a lack of transparency in the conventional supply chain. Farmers might not have a clear understanding of where their produce ends up or the prices it eventually sells for, leading to potential exploitation.
@@ -29,12 +28,12 @@ In today's agricultural landscape, farmers face challenges in efficiently connec
 1. **Reduced Community Engagement**: With a lengthy supply chain, the connection between farmers and consumers can diminish. Consumers might not have a clear understanding of where their food comes from, which can lead to a lack of appreciation for local farming communities and their efforts.
 
 
-**Farmer Suicides in India:**
+### Farmer Suicides in India:
 
 ![](Aspose.Words.43354786-ab7d-46fe-b183-8fa647330879.002.jpeg)
 
 
-**Our Solution:**
+## Our Solution:
 
 We will be building a platform that will function as a market place and supply chain.
 
@@ -49,7 +48,7 @@ There are some problems which we have to address to lead to a more effective sys
 
 
 
-**RELIABLE MARKET PLACE**
+### RELIABLE MARKET PLACE
 
 **Famer Point of View:**
 
@@ -66,22 +65,22 @@ Some of the farmer who do not have sufficient space or storage to store their pr
 This would create an effective marketplace which helps in the interaction between farmers and the consumers thus eliminating any middlemen.
 
 
-**Absence of proper grading system to know the quality of the material beforehand:**
+### Absence of proper grading system to know the quality of the material beforehand:
 
 As a general rule, there is hardly any grading of the commodities to be marketed. Therefore, the consumer has little confidence, if any, in the quality of the product(s). This brings us to the second part of building a multilayer grading system that is unlike the conventional grading systems which we see in all the existing e-commerce product. The rating will be based on different aspects of the products like quality, punctuality, packing of the product, similar rating will be given for the transportation also. Thus, making it easier for the consumer to decide between products.
 
-**FUTURE PLANS:**
+### FUTURE PLANS:
 
 - Multilingual Support
 - Chatbot to help users within the app
 - Redesign the User Interface for better cognitive ease
 
-**Technology Stack:**
+### Technology Stack:
 
 - Flutter (Dart)
 - Android Studio
 
-**Dependencies:**
+### Dependencies:
 
 The hurdle that we could face is the fact, that most of the farmers of our country are illiterate, hence they wouldn’t know how to use the app.
 
